@@ -48,10 +48,9 @@ Wenn ja, wie stelle ich es im ERD dar?
   Kardinalität einer Zeile
   
 
-## Aufgabe 10
-Was bedeutet der Begriff Datenintegrität und worin unterscheidet sich Integrität und referentielle Integrität?
+  ## Aufgabe 10
+  Was bedeutet der Begriff Datenintegrität und worin unterscheidet sich Integrität und referentielle Integrität?
   Datenintegrität: Korrektheit der Daten
-  Integrität:
   referentielle Integrietät: Korrektheit der Beziehungen
   
   ## Aufgabe 11
@@ -95,7 +94,8 @@ Ein Handelsbetrieb verkauft ein Sortiment von Artikeln, die er von verschiedenen
 
   ## Aufgabe 16
   Welche Anomalien kennst du und was beschreiben sie?
-Erstellungsanomalie: Es sollen nur so viele Daten eingegeben werden wie vorhanden sind, Änderungsanomalie: Es sollen nur die Daten geändert werden die notwendig sind, Löschungsanomalie: Es sollen nur so viele Daten gelöscht werden, wie notwendig, sonst entsteht eine Anomalie
+  Erstellungsanomalie: Es sollen nur so viele Daten eingegeben werden wie vorhanden sind, 
+  Änderungsanomalie: Es sollen nur die Daten geändert werden die notwendig sind,  Löschungsanomalie: Es sollen nur so viele Daten gelöscht werden, wie notwendig, sonst entsteht eine Anomalie
 
 ## Aufgabe 17
 Modellieren Sie den angeführten Realitätsausschnitt einer Fluggesellschaft mit Hilfe eines Entity Relationship- Diagramms. Treffen Sie, falls notwendig, sinnvolle Annahmen und dokumentieren Sie diese nachvollziehbar in Ihrer Lösung. Der zu betrachtende Realitätsausschnitt der Fluggesellschaft umfasst folgenden
